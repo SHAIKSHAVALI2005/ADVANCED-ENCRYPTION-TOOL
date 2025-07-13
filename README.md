@@ -1,6 +1,7 @@
 # ADVANCED-ENCRYPTION-TOOL
 📌 Overview
 🔒 AES-Encryption-Tool is a powerful and easy-to-use application for encrypting and decrypting files using AES-256 encryption. It ensures data confidentiality with a simple, user-friendly interface designed for both beginners and professionals.
+
 COMPANY: CODETECH IT SOLUTIONS
 
 NAME: DONGRI SHAIKSHAVALI
